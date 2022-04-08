@@ -7,4 +7,4 @@ The goal for this project is to refresh my HTML skills.
 Reflection:
 
 Source:
-theodinproject.com
+https://www.theodinproject.com/lessons/foundations-recipes#setting-up-your-projects-github-repository
