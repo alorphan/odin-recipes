@@ -1,0 +1,42 @@
+/* Styles the index page */
+
+body {
+    background-color: #CCD5AE;
+    color: #100A05;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #100A05;
+}
+
+a:hover {
+    background-color: #100A05;
+    color: #E9EDC9;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 40px;
+    margin: 0px;
+    padding: 0%;
+}
+
+li {
+    padding-bottom: 30px;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

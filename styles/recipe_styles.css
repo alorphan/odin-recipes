@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:visited {
+    color: #100A05;
+}
+
+p {
+    margin-right: 90px;
+}
+
+body {
+    color: #100A05;
+    background-color: #FEFAE0;
+}
+
+footer {
+    padding-top: 20px;
+}
+
+footer a:hover {
+    background-color: #100A05;
+    color: #FEFAE0;
+}
+
+div {
+    padding: 15px;
+    background-color: #CCD5AE;
+    margin-right: 90px;
+}
+
+img {
+    width: 1000px;
+    height: auto;
+}
